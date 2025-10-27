@@ -206,7 +206,7 @@ nav.scrolled {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url('../images/background1.jpg') no-repeat center center/cover;
+  background: url('..images/background1.jpg') no-repeat center center/cover;
   color: white;
   padding: 0 20px;
 }
@@ -705,4 +705,5 @@ footer {
   .products-grid { grid-template-columns: 1fr; }
 
 }
+
 
